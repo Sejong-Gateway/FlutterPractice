@@ -19,9 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6609b24b-3a26-4f57-8597-426bcffa6c24" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/IdeaProjects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/IdeaProjects.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="f9fe9cb4-2ed9-4799-9e73-504e40f9cd0b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week2_1/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../week2_1/lib/main.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,9 +29,9 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectId" id="1kMVmXY05wa5LrDmLm8FdhI4YyA" />
+  <component name="ProjectId" id="1kYXLGLot2djbt6WsgkLM28aX4R" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -42,23 +42,18 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6609b24b-3a26-4f57-8597-426bcffa6c24" name="Default Changelist" comment="" />
-      <created>1605510606400</created>
+      <changelist id="f9fe9cb4-2ed9-4799-9e73-504e40f9cd0b" name="Default Changelist" comment="" />
+      <created>1605878534469</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1605510606400</updated>
-      <workItem from="1605510607436" duration="890000" />
-      <workItem from="1605511506343" duration="17000" />
-      <workItem from="1605511526742" duration="1261000" />
-      <workItem from="1605846275397" duration="214000" />
-      <workItem from="1605878557464" duration="254000" />
+      <updated>1605878534469</updated>
+      <workItem from="1605878535499" duration="21000" />
     </task>
     <servers />
   </component>
@@ -75,16 +70,11 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1167" y="216" key="FileChooserDialogImpl" timestamp="1605846407467">
+    <state x="1167" y="219" key="FileChooserDialogImpl" timestamp="1605878554978">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1167" y="216" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1605846407467" />
-    <state x="452" y="129" key="new project wizard" timestamp="1605878799603">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="452" y="129" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1605878799603" />
+    <state x="1167" y="219" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1605878554978" />
   </component>
 </project>
