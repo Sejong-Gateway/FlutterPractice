@@ -5,4 +5,4 @@
 # Weekly progress
 
 
-2주차 위젯 공부 : (간단한 위젯과 라우터)[https://github.com/Sejong-Gateway/flutterPractice/tree/main/widgetPractice]
+2주차 위젯 공부 : (https://github.com/Sejong-Gateway/flutterPractice/tree/main/widgetPractice,"간단한 위젯 라우터")
